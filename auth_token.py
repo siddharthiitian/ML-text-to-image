@@ -1,1 +1,1 @@
-auth_token = "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"
+auth_token = "Pasete the token here"
